@@ -7,7 +7,6 @@ its a verbose, step by step guide to building a simple 2D game called `Dodge the
 
 1. Project setup
 2. Player Scene
-3. Coding the Player
 
 
 ### Project Setup
